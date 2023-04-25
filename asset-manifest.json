@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-redux-asyncthunk/static/css/main.334ec169.css",
+    "main.js": "/test-react-redux-asyncthunk/static/js/main.e1d90100.js",
+    "index.html": "/test-react-redux-asyncthunk/index.html",
+    "main.334ec169.css.map": "/test-react-redux-asyncthunk/static/css/main.334ec169.css.map",
+    "main.e1d90100.js.map": "/test-react-redux-asyncthunk/static/js/main.e1d90100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334ec169.css",
+    "static/js/main.e1d90100.js"
+  ]
+}
